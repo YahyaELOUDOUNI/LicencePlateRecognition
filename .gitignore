@@ -1,0 +1,14 @@
+env/
+out.mp4
+*.mp4
+__pycache__/
+.vscode/
+*.pyc
+*.log
+.gitattributes/
+.gitignore/
+sort/
+*.jpg
+*.png
+*.csv
+
